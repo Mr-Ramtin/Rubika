@@ -25,8 +25,6 @@ Please Support him
 
 `python Rubika.py`
 
-# Screenshos
-
 
 
 
